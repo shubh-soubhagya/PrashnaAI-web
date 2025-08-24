@@ -23,9 +23,9 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="font-semibold text-foreground">Product</h3>
             <ul className="space-y-2 text-sm">
-              <li><a href="#features" className="text-muted-foreground hover:text-primary smooth-transition">Features</a></li>
+              <li><a href="/features" className="text-muted-foreground hover:text-primary smooth-transition">Features</a></li>
               <li><a href="https://prashna-web.onrender.com/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Try Now</a></li>
-              <li><a href="#about" className="text-muted-foreground hover:text-primary smooth-transition">About</a></li>
+              <li><a href="/about" className="text-muted-foreground hover:text-primary smooth-transition">About</a></li>
             </ul>
           </div>
 
@@ -33,9 +33,9 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="font-semibold text-foreground">Resources</h3>
             <ul className="space-y-2 text-sm">
-              <li><a href="https://github.com/prashnaai/prashnaai" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Documentation</a></li>
-              <li><a href="https://github.com/prashnaai/issues" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Support</a></li>
-              <li><a href="#contact" className="text-muted-foreground hover:text-primary smooth-transition">Contact</a></li>
+              <li><a href="https://github.com/soubhagya-srivastava/prashnaai" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Documentation</a></li>
+              <li><a href="https://github.com/soubhagya-srivastava/prashnaai/issues" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Support</a></li>
+              <li><a href="/contact" className="text-muted-foreground hover:text-primary smooth-transition">Contact</a></li>
             </ul>
           </div>
 
@@ -44,7 +44,7 @@ export function Footer() {
             <h3 className="font-semibold text-foreground">Connect</h3>
             <div className="flex space-x-3">
               <a
-                href="https://github.com/prashnaai/prashnaai"
+                href="https://github.com/soubhagya-srivastava/prashnaai"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 bg-secondary hover:bg-primary/10 rounded-md flex items-center justify-center smooth-transition group"
@@ -52,13 +52,13 @@ export function Footer() {
                 <Github className="h-4 w-4 text-muted-foreground group-hover:text-primary" />
               </a>
               <a
-                href="mailto:contact@prashnaai.com"
+                href="mailto:soubhagyasrivastava240@gmail.com"
                 className="w-9 h-9 bg-secondary hover:bg-primary/10 rounded-md flex items-center justify-center smooth-transition group"
               >
                 <Mail className="h-4 w-4 text-muted-foreground group-hover:text-primary" />
               </a>
               <a
-                href="https://linkedin.com/company/prashnaai"
+                href="https://linkedin.com/in/soubhagya-srivastava"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 bg-secondary hover:bg-primary/10 rounded-md flex items-center justify-center smooth-transition group"
@@ -74,7 +74,7 @@ export function Footer() {
             © 2024 PrashnaAI. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Made with <Heart className="h-4 w-4 text-red-500" /> by the PrashnaAI Team
+            Made with <Heart className="h-4 w-4 text-red-500" /> by Soubhagya Srivastava
           </p>
         </div>
       </div>
