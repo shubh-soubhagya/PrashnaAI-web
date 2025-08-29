@@ -33,8 +33,8 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="font-semibold text-foreground">Resources</h3>
             <ul className="space-y-2 text-sm">
-              <li><a href="https://github.com/soubhagya-srivastava/prashnaai" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Documentation</a></li>
-              <li><a href="https://github.com/soubhagya-srivastava/prashnaai/issues" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Support</a></li>
+              <li><a href="https://github.com/shubh-soubhagya/PrashnaAI-web" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Documentation</a></li>
+              <li><a href="https://github.com/shubh-soubhagya/PrashnaAI-web/issues" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary smooth-transition">Support</a></li>
               <li><a href="/contact" className="text-muted-foreground hover:text-primary smooth-transition">Contact</a></li>
             </ul>
           </div>
@@ -44,7 +44,7 @@ export function Footer() {
             <h3 className="font-semibold text-foreground">Connect</h3>
             <div className="flex space-x-3">
               <a
-                href="https://github.com/soubhagya-srivastava/prashnaai"
+                href="https://github.com/shubh-soubhagya/PrashnaAI-web"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 bg-secondary hover:bg-primary/10 rounded-md flex items-center justify-center smooth-transition group"
@@ -58,7 +58,7 @@ export function Footer() {
                 <Mail className="h-4 w-4 text-muted-foreground group-hover:text-primary" />
               </a>
               <a
-                href="https://linkedin.com/in/soubhagya-srivastava"
+                href="https://www.linkedin.com/in/soubhagya-srivastava-611408267"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 bg-secondary hover:bg-primary/10 rounded-md flex items-center justify-center smooth-transition group"
