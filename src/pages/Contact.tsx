@@ -123,7 +123,7 @@ const Contact = () => {
                     asChild
                     className="w-full justify-start hover:bg-primary/10 border-border/40 hover:border-primary/20"
                   >
-                    <a href="https://www.linkedin.com/in/soubhagya-srivastava-611408267/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3">
+                    <a href="https://www.linkedin.com/in/soubhagya-srivastava-611408267" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3">
                       <Linkedin className="h-5 w-5 text-primary" />
                       <div className="text-left">
                         <div className="font-medium">LinkedIn</div>
@@ -209,7 +209,7 @@ const Contact = () => {
                   Interested in collaborating or contributing to the project?
                 </p>
                 <Button variant="outline" asChild className="w-full">
-                  <a href="https://www.linkedin.com/in/soubhagya-srivastava-611408267/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/soubhagya-srivastava-611408267" target="_blank" rel="noopener noreferrer">
                     Connect on LinkedIn
                   </a>
                 </Button>
