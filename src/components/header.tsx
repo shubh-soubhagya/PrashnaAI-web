@@ -105,7 +105,7 @@ export function Header() {
                 className="self-start"
               >
                 <a
-                  href="https://github.com/soubhagya-srivastava/prashnaai"
+                  href="https://github.com/shubh-soubhagya/PrashnaAI-web"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"
