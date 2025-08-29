@@ -55,7 +55,7 @@ export function Header() {
               className="hover:bg-primary hover:text-primary-foreground"
             >
               <a
-                href="https://github.com/shubh-soubhagya/prashnaAI-website-chatbot"
+                href="https://github.com/shubh-soubhagya/PrashnaAI-web"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
