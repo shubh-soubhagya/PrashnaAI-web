@@ -3,8 +3,8 @@
 PrashnaAI Website is a modern, responsive landing platform for the PrashnaAI chatbot project.  
 It highlights features, provides navigation to the live demo, and serves as the official project website. 
 
-Live Landing Page Link: [PrashnaAI Website](https://prashna-ai-web.vercel.app/)
-Chatbot Repository : [PrashnaAI Chatbot](https://github.com/shubh-soubhagya/prashnaAI-website-chatbot)
+### Live Landing Page Link: [PrashnaAI Website](https://prashna-ai-web.vercel.app/)
+### Chatbot Repository : [PrashnaAI Chatbot](https://github.com/shubh-soubhagya/prashnaAI-website-chatbot)
 
 ---
 
