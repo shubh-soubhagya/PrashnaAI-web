@@ -81,13 +81,7 @@ Contributions, issues, and feature requests are welcome!
 
 👤 **Soubhagya Srivastava**
 
-* ✉️ Email: [soubhagyasrivastava240@gmail.com](mailto:soubhagyasrivastava240@gmail.com)
-* 🌐 Portfolio: [theSoubhagya](https://thesoubhagya.vercel.app/)
-* 🔗 LinkedIn: [Soubhagya Srivastava](https://www.linkedin.com/in/soubhagya-srivastava-611408267/)
-* 🐙 GitHub: [shubh-soubhagya](https://github.com/shubh-soubhagya)
-
----
-
-
-Do you want me to also include a **"Project Structure" section** (showing `/src`, `/public`, `vite.config.ts`) so contributors quickly understand the repo layout?
-```
+* ✉️ **Email:** [soubhagyasrivastava240@gmail.com](mailto:soubhagyasrivastava240@gmail.com)
+* 🌐 **Portfolio:** [theSoubhagya](https://thesoubhagya.vercel.app/)
+* 🔗 **LinkedIn:** [Soubhagya Srivastava](https://www.linkedin.com/in/soubhagya-srivastava-611408267/)
+* 🐙 **GitHub:** [shubh-soubhagya](https://github.com/shubh-soubhagya)
