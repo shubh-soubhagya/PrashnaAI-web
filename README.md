@@ -81,7 +81,7 @@ Contributions, issues, and feature requests are welcome!
 
 👤 **Soubhagya Srivastava**
 
-* ✉️ Email: [your-email@example.com](mailto:soubhagyasrivastava240@gmail.com)
+* ✉️ Email: [soubhagyasrivastava240@gmail.com](mailto:soubhagyasrivastava240@gmail.com)
 * 🌐 Portfolio: [theSoubhagya](https://thesoubhagya.vercel.app/)
 * 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/soubhagya-srivastava-611408267/)
 * 🐙 GitHub: [Your GitHub](https://github.com/shubh-soubhagya)
