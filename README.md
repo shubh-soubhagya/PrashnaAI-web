@@ -27,10 +27,10 @@ It highlights features, provides navigation to the live demo, and serves as the 
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository**
-  ```bash
+    ```bash
    git clone https://github.com/your-username/prashnaai-website.git
    cd prashnaai-website
-  ````
+    ````
 
 2. **Install dependencies**
 
